@@ -1,0 +1,1 @@
+The Vulnerability Research Centre (VRC) is part of the [Communications Security Establishment's](https://www.cse-cst.gc.ca/en) Research Directorate. Its focus is to advance Canada’s cyber security interests through world-class strategic vulnerability research.
